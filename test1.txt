@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2E19-EF44
+
+ Directory of C:\Users\DILEEP KUMAR\Documents\gitstory
+
+30-05-2022  22:41    <DIR>          .
+30-05-2022  22:34    <DIR>          ..
+30-05-2022  22:41                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  718,786,322,432 bytes free
